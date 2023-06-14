@@ -60,6 +60,9 @@ header{
 ul{
     list-style: none;
 }
+li > * {
+    vertical-align: middle;
+}
 .card h2{
     margin: 40px 0 15px;
 }
@@ -72,5 +75,37 @@ ul{
     border: 1px solid currentColor;
     border-radius: 50px;
 }
+.item-done{
+color:#2cc6ab;
+}
+.item-undone{
+color: #f00;
+}
+.label {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    font-size: .6rem;
+    background-color: #555;
+    border-radius: 5px;
+}
+.editorial{
+    background-color: ;
+}
+}
+.q1-goals{
+    background-color: ;
+}}
+.mobile{
+    background-color: ;
+}}
+.ewebsite{
+    background-color: ;
+}}
+.sales{
+    background-color: ;
+}
+
 
 
