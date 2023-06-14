@@ -11,7 +11,7 @@ body{
 .button{
     display:inline-block;
     padding:5px;
-    border:none;
+    border: 1px solid transparent;
     border-radius: 5px;
     background-color: #779ef9;
     color:white;
@@ -29,8 +29,8 @@ body{
 }
 
 .second button{
-    border:1px solid gray;
     background-color:white;
+    padding: 20px;
 }
 header{
     height: 80px;
@@ -91,20 +91,23 @@ color: #f00;
     border-radius: 5px;
 }
 label.editorial{
-    background: color #09a9ed; ;
+    background-color: #09a9ed;
 }
 
 label.q1-goals{
     background-color: #ab5de6;
 }
 label.mobile{
-    background: color #ff9b00; ;
+    background-color: #ff9b00; ;
 }
 label.ewebsite{
     background-color: #ec4a9d;
 }
 label.sales{
     background-color:#a3d116 ;
+}
+label.recruting{
+    background-color: #1bb388;
 }
 
 
