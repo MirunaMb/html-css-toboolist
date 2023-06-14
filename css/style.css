@@ -90,21 +90,21 @@ color: #f00;
     background-color: #555;
     border-radius: 5px;
 }
-.editorial{
-    background-color: ;
+label.editorial{
+    background: color #09a9ed; ;
 }
+
+label.q1-goals{
+    background-color: #ab5de6;
 }
-.q1-goals{
-    background-color: ;
-}}
-.mobile{
-    background-color: ;
-}}
-.ewebsite{
-    background-color: ;
-}}
-.sales{
-    background-color: ;
+label.mobile{
+    background: color #ff9b00; ;
+}
+label.ewebsite{
+    background-color: #ec4a9d;
+}
+label.sales{
+    background-color:#a3d116 ;
 }
 
 
