@@ -46,14 +46,16 @@ header{
     vertical-align: middle;
 }
 .card{
+    margin:20px auto;
     width: 50%;
-    height: 50px auto;
     background-color: white;
     padding: 20px;
-    display: inline-block;
+    
 }
 .card-header{
-    border-bottom:2px solid darkgrey,
+    border-bottom:1px solid darkgrey;
+    padding: 20px;
+
 }
 .card h2{
     margin: 40px 0 15px;
